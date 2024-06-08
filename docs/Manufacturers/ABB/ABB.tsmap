@@ -1,0 +1,116 @@
+{
+    "key": "BAzh7O1oN   ",
+    "token": "Abb",
+    "name": "ABB",
+    "created": "2024-05-29T12:25:28.648Z",
+    "iText": "Link to 'ABB'",
+    "___rΩΩt___": {
+        "key": "BAzhDU02Nn",
+        "nodes": [
+            {
+                "key": "BAzoFY000G",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "BB095c015z",
+                        "order": 1,
+                        "option": "Next",
+                        "nodes": [
+                            {
+                                "key": "BB0Sby006i",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "BB0ehY02FH",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "nodes": [
+                                            {
+                                                "key": "BB0qJO020M",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "nodes": [
+                                                    {
+                                                        "key": "BB123u00Wd",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "BB1CJX006G",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "BB1MJf00X0",
+                                                                        "order": 1,
+                                                                        "option": "Next",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "BB1agW00hJ",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "isLeaf": true
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "-BAzhDU02Nn",
+            "relativePath": "..\\_shared\\markdown\\Contents.tsmds"
+        },
+        {
+            "key": "-BAzoFY000G",
+            "relativePath": ".\\markdown\\0-Tips.tsmds"
+        },
+        {
+            "key": "-BB095c015z",
+            "relativePath": "..\\_shared\\markdown\\1-ControllerOptions.tsmds"
+        },
+        {
+            "key": "-BB0Sby006i",
+            "relativePath": "..\\_shared\\markdown\\Background.tsmds"
+        },
+        {
+            "key": "-BB0ehY02FH",
+            "relativePath": ".\\markdown\\Details.tsmds"
+        },
+        {
+            "key": "-BB0qJO020M",
+            "relativePath": "..\\_shared\\markdown\\2-UploadingCode.tsmds"
+        },
+        {
+            "key": "-BB123u00Wd",
+            "relativePath": "..\\_shared\\markdown\\Remote.tsmds"
+        },
+        {
+            "key": "-BB1CJX006G",
+            "relativePath": ".\\markdown\\Manual.tsmds"
+        },
+        {
+            "key": "-BB1MJf00X0",
+            "relativePath": "..\\_shared\\markdown\\3-Simulation.tsmds"
+        },
+        {
+            "key": "-BB1agW00hJ",
+            "relativePath": ".\\markdown\\HowTo.tsmds"
+        }
+    ]
+}

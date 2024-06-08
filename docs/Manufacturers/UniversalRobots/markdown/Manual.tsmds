@@ -1,0 +1,20 @@
+¬import il from "../../../_shared/imageLinks"
+¬import ml from "../../_shared/variables/manual"
+¦
+
+#### Manual:
+
+1. {{ml.manual-1}}
+2. Copy the _{ProcedureName}.script_ file onto a USB stick.
+3. {{ml.manual-3}}
+4. Create a new **Program** on the controller with a **Script** node (you'll find this under the **Advanced** category) and set the mode to _File_.
+[<center><img src="{{il.URCreateScript}}"></center>]({{il.URCreateScript}})
+<em>Create a Script node into which you can load your URScript file.</em>
+
+5. Click _Edit_ then _Open_ to browse to your _{ProcedureName}.script_ file on the USB stick. You can then _Exit_ the script editor.
+[<center><img src="{{il.URLoadScript}}"></center>]({{il.URLoadScript}})
+<em>Browse the directories and open your URScript file.</em>
+
+6. Your _{ProcedureName}.script_ is now loaded and ready to run.
+[<center><img src="{{il.URManualProgram}}"></center>]({{il.URManualProgram}})
+<em>Browse the directories and open your URScript file.</em>

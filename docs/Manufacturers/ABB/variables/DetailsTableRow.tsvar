@@ -1,0 +1,15 @@
+¬import tc from "./DetailsTableCell"
+¦
+
+¬{{row-1}}
+| {{tc.cell-1-1}}  | {{tc.cell-1-2}} | {{tc.cell-1-3}} | {{tc.cell-1-4}} |¦
+
+¬{{row-2}}
+| {{tc.cell-2-1}}  | {{tc.cell-2-2}} | {{tc.cell-2-3}} | {{tc.cell-2-4}} |¦
+
+¬{{row-3}}
+| {{tc.cell-3-1}}  | {{tc.cell-3-2}} | {{tc.cell-3-3}} | {{tc.cell-3-4}} |¦
+
+¬{{row-4}}
+| {{tc.cell-4-1}}  | {{tc.cell-4-2}} | {{tc.cell-4-3}} | {{tc.cell-4-4}} |¦
+

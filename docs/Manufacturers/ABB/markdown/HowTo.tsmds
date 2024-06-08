@@ -1,0 +1,19 @@
+¬import gl from "../../../_shared/glossaryLinks"
+¬import rl from "../../../_shared/HALRoboticsLinks"
+¦
+
+#### Requirements to follow along:
+
+- Windows PC
+
+#### How to:
+
+ABB's robot simulation tool is [RobotStudio]({{rl.robotstudio}}). A license is required for advanced functionality but to test basic code functionality you can simply do the following:
+1. Open RobotStudio
+2. If this is the first time you're opening RobotStudio, it will direct you to install a RobotWare version. Install the same version as your real [controller]({{gl.controller}}).
+3. Create a new empty _Station_.
+4. From the **Home** tab, select _Virtual Controller_ -> _New Controller_.
+5. Pick your robot, RobotWare and Controller configuring it to match your exact version.
+6. Check the _Customize options_ box and match the options on your real robot.
+7. This will now start a virtual controller and instantiate a model of your robot. It may take a minute or two.
+8. You can now use this robot exactly as you would the real robot using the loopback IP address _127.0.0.1_ from the HAL Robotics Framework.

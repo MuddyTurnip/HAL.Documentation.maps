@@ -1,0 +1,8 @@
+¬import ghl from "../../../_shared/grasshopperLinks"
+¦
+
+#### Remote:
+
+1. Ensure your controller is configured to communicate with your controller. See [Controller Options](#1-controller-options) and [Configure a Virtual Controller]({{ghl.configure-a-virtual-controller}}) for more details about what your options are.
+2. Follow the instructions in [Upload a Procedure]({{ghl.upload-a-procedure}}).
+3. That's all!

@@ -1,0 +1,8 @@
+¬import ghl from "../../../_shared/grasshopperLinks"
+¦
+
+### 1. Controller Options
+
+#### Objective:
+
+In this section we'll explain which **Subsystems** are available in the HAL Robotics Framework for Universal Robots and that their **Capabilities** are. These will be used when you [Configure a Virtual Controller]({{ghl.configure-a-virtual-controller}}).

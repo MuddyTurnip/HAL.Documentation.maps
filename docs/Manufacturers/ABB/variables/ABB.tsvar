@@ -1,0 +1,9 @@
+¬import hr from "~/docs/_shared/HALRobotics"
+¦
+
+¬{{halName}}
+{{hr.halCompanyName}}¦
+
+¬{{manufacturerName}}
+ABB¦
+

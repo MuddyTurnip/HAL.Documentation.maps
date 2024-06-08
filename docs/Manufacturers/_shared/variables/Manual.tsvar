@@ -1,0 +1,12 @@
+¬import gl from "../../../_shared/glossaryLinks"
+¬import ghl from "../../../_shared/grasshopperLinks"
+¦
+
+¬{{manual-1}} 
+[Export]({{ghl.export-a-procedure}}) your [Procedure]({{gl.procedure}}) to a known directory.¦
+
+¬{{manual-3}} 
+Insert the USB stick into the USB port on the teach pendant.¦
+
+
+

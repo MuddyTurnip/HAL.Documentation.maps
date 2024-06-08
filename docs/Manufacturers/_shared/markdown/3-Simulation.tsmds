@@ -1,0 +1,9 @@
+¬import gl from "../../../_shared/glossaryLinks"
+¦
+
+### 3. Simulation
+
+#### Objective:
+
+Whilst we expect most users to use our own [simulation]({{gl.73-simulation}}) tools for the majority of their cases, there may be a reason (e.g. cycle time analysis, or validation of the robot's limits) that you want to run your [Procedures]({{gl.procedure}}) on a manufacturer-provided simulator. This section details what you'll need and how to configure that simulator.
+

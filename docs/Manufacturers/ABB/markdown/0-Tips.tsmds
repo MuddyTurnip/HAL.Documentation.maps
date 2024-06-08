@@ -1,0 +1,7 @@
+¬import gl from "../../../_shared/glossaryLinks"
+¦
+
+### 0. Tips
+
+1. Your [Controller]({{gl.controller}}) must be in _automatic_ mode to [Upload]({{gl.upload}}) code.
+2. Before [Uploading]({{gl.upload}}) any new [Procedures]({{gl.procedure}}), ensure that all other _Modules_ (which aren't required for system variables) are unloaded. Otherwise there is a risk of a clash between two loaded _Main_ procedures or automatically named variables.
